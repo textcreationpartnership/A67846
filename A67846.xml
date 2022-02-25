@@ -1,0 +1,1028 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Three contending brethren, Mr. Williams, Mr. Lob, Mr. Alsop, reconcil'd, and made friends by an occasional conference with three notorious hereticks, Mr. Humphreys, Mr. Clark, Dr. Crisp. By Calvin Anti-Crispian.</title>
+            <author>Trepidantium Malleus.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 65 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67846</idno>
+            <idno type="STC">Wing Y88B</idno>
+            <idno type="STC">ESTC R221091</idno>
+            <idno type="EEBO-CITATION">99832461</idno>
+            <idno type="PROQUEST">99832461</idno>
+            <idno type="VID">36934</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67846)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36934)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2143:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Three contending brethren, Mr. Williams, Mr. Lob, Mr. Alsop, reconcil'd, and made friends by an occasional conference with three notorious hereticks, Mr. Humphreys, Mr. Clark, Dr. Crisp. By Calvin Anti-Crispian.</title>
+                  <author>Trepidantium Malleus.</author>
+               </titleStmt>
+               <extent>[2], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for J. Harris at the Harrow in Little Britain,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement on verso of A1, title page.</note>
+                  <note>Stained and tightly bound.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Crisp, Tobias, 1600-1643 --  Controversial literature --  Early works to 1800.</term>
+               <term>Williams, Daniel, 1643?-1716 --  Early works to 1800.</term>
+               <term>Lobb, Stephen, d. 1699 --  Early works to 1800.</term>
+               <term>Alsop, Stephen, d. 1699 --  Early works to 1800.</term>
+               <term>Dissenters, Religious --  England --  Early works to 1800.</term>
+               <term>Heresy --  England --  Early works to 1800.</term>
+               <term>Antinomianism --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36934:1" rendition="simple:additions"/>
+            <p>THREE Contending BRETHREN, Mr. <hi>WILLIAMS,</hi> Mr. <hi>LOB,</hi> Mr. <hi>ALSOP, Reconcil'd, and made Friends;</hi> By an Occaſional CONFERENCE WITH Three Notorious Hereticks, Mr. <hi>H<g ref="char:V">Ʋ</g>MPHREYS,</hi> Mr. <hi>CLARK,</hi> Dr. <hi>CRISP.</hi>
+            </p>
+            <q>
+               <p>And <hi>Abram</hi> ſaid unto <hi>Lot,</hi> let there be no ſtrife, I pray thee, between me and thee,—for we are Bre<g ref="char:EOLhyphen"/>thren,</p>
+               <bibl>
+                  <hi>Gen. 13.8.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>A Man that is a Heretick after the firſt and ſecond Admonition, reject.</p>
+               <bibl>
+                  <hi>3 Tit. 10.</hi>
+               </bibl>
+            </q>
+            <q>Quin laniant mundum, tanta eſt diſcordia fratrum.</q>
+            <p>By <hi>Calvin Anti-Criſpian.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>J. Harris</hi> at the <hi>Harrow</hi> in <hi>Little Britain.</hi> 1698.</p>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:36934:2" rendition="simple:additions"/>
+            <head>
+               <hi>BOOKS</hi> Publiſh'd by the Author, and Sold by <hi>John Harris</hi> in <hi>Little Britain.</hi>
+            </head>
+            <p>
+               <hi>WIlliam Pen,</hi> and the Quakers, either Im<g ref="char:EOLhyphen"/>poſtors or Apoſtates, which they pleaſe; proved from their avowed Principles and contrary Practiſes.</p>
+            <p>A Cenſure of <hi>George Fox</hi>'s Journal, and an Anſwer to <hi>B. C.</hi> and <hi>W. C.</hi> his <hi>Trepidantium Malleus intrepidanter Malleatus.</hi>
+            </p>
+            <p>A Reprimand for the Author of a Libel en<g ref="char:EOLhyphen"/>tituled, <hi>George Keith</hi> an Apoſtate.</p>
+            <p>
+               <hi>Vindiciae Anti-Baxterianae;</hi> or, Animadver<g ref="char:EOLhyphen"/>ſions on the Life of Mr. <hi>Baxter.</hi>
+            </p>
+            <p>An Apology for Congregational Divines, againſt the Charge of <hi>Criſpianiſm,</hi> countenan<g ref="char:EOLhyphen"/>cing of Tradeſmens Preaching and Cauſeleſs Separation from the Publick Worſhip.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:36934:2"/>
+            <head>A DIALOGUE BETWEEN Mr. <hi>Williams</hi> &amp; Mr. <hi>Lob,</hi> &amp;c.</head>
+            <sp>
+               <speaker>Mr. <hi>W.</hi>
+               </speaker>
+               <p>WELL met, honeſt Mr. <hi>Lob.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>L.</hi>
+               </speaker>
+               <p>May I ſay, honeſt Mr. <hi>Williams?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>H.</hi>
+               </speaker>
+               <p>Yes, you may, and tell as no<g ref="char:EOLhyphen"/>torious an Untruth as he.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>A.</hi>
+               </speaker>
+               <p>Why ſo hot, Sir? for you ought rather to un<g ref="char:EOLhyphen"/>derſtand Mr. <hi>Williams</hi> figuratively, than be ſo keen a<g ref="char:EOLhyphen"/>gainſt them both; let me refreſh your memory. If
+<q>
+                     <l>Durior impropriae eſt Catachreſis abuſio vocis,</l>
+                     <l>Contra quam ſentit ſolet Ironia jocari,</l>
+                     <l>Inſultans hoſti illudit ſarcaſmus amare;</l>
+                  </q> will not do, I hope This will:
+<q>Antiphraſis voces tibi per contraria ſignat.</q> As Symphora for Adverſity, tho' it ſignifie Proſperity. <hi>Auri Sacra fames;</hi> holy Covetouſneſs, for wicked. This is known to all Orators, Youths as well as Men. You know Chriſt call'd <hi>Judas, Friend;</hi> had you been by Chriſt when he thus did, what would you have ſaid?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>W.</hi>
+               </speaker>
+               <p>Brother <hi>Humphreys,</hi> I aſſure you I ſpoke in the common literal ſence of the word, without a Trope; for I think many Miſtakes in Opinion, and Raſhneſs in Words, and Weakneſs in Actions, conſiſtent with <hi>Ho<g ref="char:EOLhyphen"/>neſty.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>H.</hi>
+               </speaker>
+               <p>Do not call me <hi>Brother,</hi> for I diſown you as ſuch; you are a Brother of Mr. <hi>Alſop,</hi> that old <hi>Calviniſt,</hi> he is become your Defender: We now ſee what you are. You are able to diſtinguiſh, and diſtinguiſh, and diſtin<g ref="char:EOLhyphen"/>guiſh a Man out of his Senſes; no man, ſince Mr. <hi>Baxter</hi>
+                  <pb n="2" facs="tcp:36934:3"/>died, is able to underſtand you; as if not only <hi>materiali<g ref="char:EOLhyphen"/>ter</hi> and <hi>formaliter, ſtricte</hi> and <hi>late,</hi> and a thouſand ſuch diſtinctions, might unty many a Knot; but as if the old <hi>Archipodialiter</hi> and <hi>reflexive,</hi> &amp;c. muſt come in for a ſhare. But as it hath been long and often obſerved of the Popes of <hi>Rome,</hi> none were more <hi>cruel</hi> than the <hi>Clements,</hi> none greater <hi>Cowards</hi> than the <hi>Leo</hi>s, none more <hi>miſchie<g ref="char:EOLhyphen"/>vous</hi> than the <hi>Bonifaces,</hi> none more <hi>vile</hi> than the <hi>Inno<g ref="char:EOLhyphen"/>cents;</hi> ſo none leſs honeſt than you two, call one another as you pleaſe. It was an <hi>Innocent</hi> that interdicted this Kingdom in the Reign of King <hi>John,</hi> and made <hi>Pandol<g ref="char:EOLhyphen"/>phus</hi> the Monk poyſon him, when he laid his Crown and Scepter at his <hi>Holineſs,</hi> or, if you pleaſe, <hi>Innocency</hi>'s feet.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>L.</hi>
+               </speaker>
+               <p>I pray, Mr. <hi>Humphreys,</hi> how came you to have ſo hard an Opinion of Mr. <hi>Williams,</hi> to queſtion his Honeſty, tho' I never queſtion'd your denial of mine, for aſſerting the old Proteſtant Doctrine of <hi>Juſtification by an imputed Righteouſneſs in it ſelf, not in the Effects on<g ref="char:EOLhyphen"/>ly?</hi> You know Mr. <hi>Williams</hi> is yours, not ours.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>H.</hi>
+               </speaker>
+               <p>How, Mr. <hi>Lob!</hi> this is a foul miſtake, for I averr he is not ours, but yours; he hath ſhaken Hands with Mr. <hi>Baxter,</hi> and bad him Good-night. This I have told the World in a Diſcourſe of <hi>Juſtification,</hi> and what I there ſay I ſtand to, <hi>You and he are both one in Doctrin, tho' not Phraſes;</hi> for he aſſerts Juſtification by imputed Righteouſneſs not only <hi>in the Effects of it,</hi> but <hi>in ſe:</hi> Mark Sir, <hi>in ſe,</hi> in it ſelf. What material difference can then be between you two? And, to be plain, I care not for your Proteſtant Doctrine, for I ſpeak roundly, and cenſure the Doctrine as Proteſtant: And I ſay with the Roman Catholicks, Our Righteouſneſs is the Righteouſ<g ref="char:EOLhyphen"/>neſs <hi>per quod,</hi> by <hi>which</hi> we are juſtified; and the Righ<g ref="char:EOLhyphen"/>teouſneſs of Chriſt is the Righteouſneſs <hi>propter quod,</hi> for which we are juſtified.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>C.</hi>
+               </speaker>
+               <p>I ſay my Brother <hi>Humphreys</hi> is in the right, and many a precious Letter between him and me will be ſhortly printed. I, in my Book of Juſtification, flee di<g ref="char:EOLhyphen"/>rectly in the Face of our firſt Reformers, as <hi>erring Men,</hi> for talking of Imputed Righteouſneſs. I tell all the world, <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> my Doctrine <hi>Arminianiſm, Popery,</hi> or <hi>Socinianiſm,</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> not. I there ſay, <hi>Juſtifying Faith, Repentance, Re<g ref="char:EOLhyphen"/>generation,</hi>
+                  <pb n="3" facs="tcp:36934:3"/>the <hi>New Birth, Goſpel obedience, is all one;</hi> theſe <hi>justifie us before God,</hi> &amp;c. I have raiſed ſuch a Duſt about the word <hi>Juſtifie,</hi> what it ſignifies almoſt every where in the Old and New Teſtament, that never any Deiſt or Sceptick could have play'd the Game better; not a Man that treated on this Argument did it before me. <hi>I could tell you, I could tell you,</hi> Mr. <hi>Baxter</hi> meant the ſame thing, tho' he then thought it not time a day to ſay it, and therefore denied, in his Five Diſputations, that the Charge of his Adverſaries againſt his Aphoriſms was true; that, according to his Doctrine, <hi>Men were juſtified by their Repentance,</hi> &amp;c. And I tell the World that which is true, That, <hi>my Book is one of the beſt Books that is on that Subject.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>L.</hi>
+               </speaker>
+               <p>That is <hi>Baxterianiſm</hi> all over, <hi>Like Maſter like Man.</hi> But I pray, Mr. <hi>Williams,</hi> what ſay you to all this?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>W.</hi>
+               </speaker>
+               <p>I am not to anſwer for every thing Mr. <hi>Baxter</hi> did, tho' I believe he was miſtaken in many things, I pin not my Faith on his Sleeve; he doubted <hi>Perſeverance,</hi> I do not; he diſown'd <hi>Presbytery,</hi> I believe it to be of di<g ref="char:EOLhyphen"/>vine Right; he aſſerts <hi>Non-reſiſtance,</hi> not I. For theſe two men, I am ſorry they aſſert downright Popery, their Books are intolerable: I have lately vindicated my Do<g ref="char:EOLhyphen"/>ctrine, That <hi>man is juſtified by the Righteouſneſs of Chriſt, not in the Effects only, but</hi> in ſe, <hi>in it ſelf,</hi> againſt Mr. <hi>Hum<g ref="char:EOLhyphen"/>phreys;</hi> I need not tell you, Sir, in what Book. Theſe men, I doubt, have given that wound to Mr. <hi>Baxter</hi>'s Name and Reputation, that will never be heal'd; as deep a wound as did, doth, and will that Unhappy Book, <hi>Vindio. Anti-Baxt.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>L.</hi>
+               </speaker>
+               <p>I even adjure you, Mr. <hi>Humphreys,</hi> and Mr. <hi>Clark,</hi> tell us plainly, Do you believe in your Conſcience that Mr. <hi>Williams</hi> is no <hi>Baxterian,</hi> but one with me in Doctrine, tho' not in Phraſes?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>H.</hi> Mr. <hi>C.</hi>
+               </speaker>
+               <p>Believe Sir! we more than believe it, he that call'd him in two Books a <hi>Semi-Baxterian,</hi> might honour him in this thing beyond his deſert: And ſeeing you adjure me, were it not too high an Expreſſion, I could almoſt proteſt, <hi>by the ſacred Name of</hi> Richard Baxter, that it is true. Seeing you have him, beware of
+<pb n="4" facs="tcp:36934:4"/>him, for he hath one unpardonable Fanlt we cannot for<g ref="char:EOLhyphen"/>give him for, neither, I doubt, will you.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>L.</hi>
+               </speaker>
+               <p>What is that, I pray?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>H.</hi>
+               </speaker>
+               <p>He hath too much Wit for one man.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>L.</hi>
+               </speaker>
+               <p>Now I will ſpeak roundly: Honeſt Mr. <hi>Wil<g ref="char:EOLhyphen"/>liams,</hi> I am in a rapture or tranſport with joy, let you and I have a <hi>Friendly Debate,</hi> for I doubt we have been miſta<g ref="char:EOLhyphen"/>ken in one-another, and theſe Gentlemens Opinions of us both true and right: I know you are afraid of <hi>Cri<g ref="char:EOLhyphen"/>ſpianiſm</hi> or <hi>Antinomianiſm,</hi> as well you may, a <hi>filthy, poyſonous, abominable</hi> Weed, and I have written againſt it, for which they revile me as they do you and the <hi>Apo<g ref="char:EOLhyphen"/>logiſt.</hi> I have been much afraid of <hi>Arminianiſm</hi> and <hi>Soci<g ref="char:EOLhyphen"/>nianiſm,</hi> now grown to a great heighth: This might make us not ſo well to underſtand one-another as elſe we might.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>A.</hi>
+               </speaker>
+               <p>A <hi>Friendly Debate Gentleman!</hi> that is a word out of joint, and is an unlucky Omen; you will talk but little Sence or Truth. A <hi>Friendly Debate!</hi> the Phraſe is grown odious, ſince <hi>Patrick</hi> (thirty years ſince) wrote his <hi>Friendly Debate,</hi> wherein the friendly Con tells the Noncon, <hi>He was no good Subject,</hi> and <hi>therefore no good Chriſtian, for living in a Corporation, or within Five miles of it, contrary to Law.</hi> He brings in the Noncon as a Fool, <hi>I pray, Sir, explain your meaning, I am not skill'd in defi<g ref="char:EOLhyphen"/>nitions.</hi> And when the Queſtion was, whether our white Caps under our black ones might juſtifie Laun ſleeves? the Anſwer is, <hi>Any thing becomes a good Man.</hi> On goes <hi>Jack</hi> to prove the Biſhops good men; his Compariſon of the Gentleman's praying in the morning, at nine of the Clock, in the Parlour, requiring his Servants to come then, and there, not in a Stable, with clean Clothes, Fa<g ref="char:EOLhyphen"/>ces, and Hands, not all dirty, was as much to the purpoſe about Symbolical Ceremonies of human appointment, as his Story of the Cupboard of Plate God had, and <hi>would return to it,</hi> but it muſt be <hi>well beaten</hi> firſt, and that was when the <hi>King muſt pack up and be gone.</hi> Who, I pray, ſent their King packing ſince? Gentlemen, I ſhall for this reaſon proteſt againſt a <hi>Friendly Debate,</hi> but ſhould be glad to hear a Friendly Conference between you.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>H.</hi>
+               </speaker>
+               <p>I could wiſh Mr. <hi>Baxter</hi> alive (were it proper to wiſh the greateſt Saint that ever went to Heaven here
+<pb n="5" facs="tcp:36934:4"/>on Earth again) to ſee what his <hi>reputed Advocate,</hi> but <hi>real Adverſary,</hi> (ſaid to take the Chair ſince his death) hath ſaid and written.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>L.</hi>
+               </speaker>
+               <p>If theſe men judge right, what have I done to be ſo tenacious of a Phraſe, <hi>Commutation of Perſons,</hi> and ſo to raiſe ſuch a Duſt, to trouble Biſhop <hi>Stillingfleet</hi> and D. <hi>Edwards, famous Men,</hi> my Friends, as I thought by their Books; but your Friends, as I find by their Letters? And many ſay, our late Controverſie is one of the moſt fruitleſs ones that ever was brought on the Stage. A Sto<g ref="char:EOLhyphen"/>ry of matter of <hi>Fact,</hi> and a Phraſe; and my Friends, as well as Adverſaries, ſay, That <hi>by my Rashneſs all is in a flame;</hi> for tho' <hi>we long ſince loſt our <g ref="char:V">Ʋ</g>nion,</hi> yet our <hi>Peace continued:</hi> but now that is gone too.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>W.</hi>
+               </speaker>
+               <p>I doubt I have been miſtaken too in ſome things; ſeeing you confeſs your miſtakes, I do mine: So true is that, <hi>Incidit in Syllam</hi>— You ran ſo faſt from the Tents of the <hi>Socinians,</hi> that you might come in ſome Phraſes too nigh the Tents of the <hi>Criſpians;</hi> and I ran ſo faſt and far from the Tents of the <hi>Criſpians,</hi> that I might err, as I am ſure you did.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>L.</hi>
+               </speaker>
+               <p>Who is this that comes towards us with ſo much Rage and Fury?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>W.</hi>
+               </speaker>
+               <p>It is Dr. <hi>Criſp.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>A.</hi>
+               </speaker>
+               <p>No, that cannot be, for I remember that of old they pictur'd him like <hi>an old Hermit,</hi> and had I been a <hi>Manichean,</hi> I ſhould have ſpent time to conſider <hi>who made him.</hi> This looks more comely, ſure it is not he.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>W.</hi>
+               </speaker>
+               <p>Why, Sir, you muſt know, his Son hath been ſo troubled about it, to ſee his Father pictur'd as if with <hi>Cain</hi> his maker had ſet a mark on him, that he hath play'd the Barber himſelf, like a kind Son, to make his Father look <hi>better,</hi> or, if you will, <hi>leſs ugly,</hi> and hath clapt a few tolerable Sermons, to make the intolerable Sermons go down the better.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>C.</hi>
+               </speaker>
+               <p>Have I found you, O my two Enemies, that have written againſt my Doctrine! You <hi>Old-Teſtament-Daniel,</hi> and you <hi>New-Teſtament-Stephen,</hi> ſome ſay, that as the Old and New Teſtament make one Bible, ſo you two are one in the main. I ſay, as that Heretick <hi>Hum<g ref="char:EOLhyphen"/>phreys,</hi> you two are one in Doctrine, tho' you differ in
+<pb n="6" facs="tcp:36934:5"/>Phraſes. You are both corrupt, tho' I ſay it on a diffe<g ref="char:EOLhyphen"/>rent account: You both deny <hi>Juſtification</hi> without <hi>Faith,</hi> and make <hi>Gods Covenant a Bargain,</hi> &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>L.</hi>
+               </speaker>
+               <p>You will find, Gentlemen, this man cannot ex<g ref="char:EOLhyphen"/>preſs himſelf, he had need get one to do it for him.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>C.</hi>
+               </speaker>
+               <p>What! do you make me ſuch a Dunce, that am a Doctor?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>A.</hi>
+               </speaker>
+               <p>I have heard of a noted Doctor, Head of a Houſe in <hi>Oxon</hi> in the <hi>Interregnum,</hi> famous for adviſing young Students <hi>never to go into the Water, till they firſt learnt to ſwim,</hi> &amp;c. That once telling a Story, how the Proctor alwaies at night ſeeing a Candle in his Study, ſaid, That man will be a Doctor or a Dunce, his Servant replied, <hi>In good truth, Maſter, you are both.</hi> I apply not the Story before a D. in D.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>C.</hi>
+               </speaker>
+               <p>Will you deny, that there are any good things in my Book?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>L.</hi>
+               </speaker>
+               <p>In what Book are there not ſome good things? Your Book may therefore be called <hi>good,</hi> as ſome Philoſo<g ref="char:EOLhyphen"/>phers call an <hi>Ethiopian white,</hi> not <hi>ſimpliciter,</hi> but <hi>ſecun<g ref="char:EOLhyphen"/>dum quid,</hi> about the <hi>Teeth.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>C.</hi>
+               </speaker>
+               <p>You, Mr. <hi>L.</hi> are neither for Mr. <hi>Baxter</hi> nor me, but have written againſt us both: When ſome ſay, If he <hi>be not in the right, I muſt be ſo;</hi> if <hi>not I, he muſt be ſo.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>L.</hi>
+               </speaker>
+               <p>I have heard of a Captain in our Civil Wars, who meeting with a poor man on the Highway, asked him <hi>who he was for, for the Kings Souldiers, or the Parlia<g ref="char:EOLhyphen"/>ments,</hi> and promiſed him, if he ſpoke his mind, no harm ſhould come to him: <hi>Then, Maſter,</hi> ſaid the poor man, <hi>I am for both: How ſo,</hi> ſaid the Captain? <hi>Why,</hi> ſaid he, <hi>for the hanging of both ſorts; for, Master,</hi> ſaid he, <hi>we can<g ref="char:EOLhyphen"/>not keep a little Bacon in the Houſe, but one comes one time, and another at another time, till all be gone.</hi> So ſay I, we cannot keep a little Proteſtant Doctrine in the Church, one pulls one way, another another way, till all be gone. Yet I wiſht well to Mr. <hi>Baxter</hi>'s Perſon, and ſo to yours, but to neither of your Doctrine.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>C.</hi>
+               </speaker>
+               <p>See how <hi>Daniel Williams,</hi> that pure Stick, ſits there like a Sheep-ſtealer; he hath nothing to ſay, I think my Diſciples have done his Work for him, and told the World of his lewd Life.</p>
+            </sp>
+            <sp>
+               <pb n="7" facs="tcp:36934:5"/>
+               <speaker>Mr. <hi>A.</hi>
+               </speaker>
+               <p>He hath ſaid ſo much to you already, that he hath done enough for one man, and need ſay no more till he be well anſwer'd. Indeed there was a ſtory, that one man had it from his Maid, that ſaid ſhe had it from Mr. <hi>Williams</hi>'s Maid, who ſaid ſhe had it from her Miſtreſs; that Mr. <hi>Williams</hi> dropp'd an <hi>unſavory Joke,</hi> (tho' the Maid by the way denied it on Oath) had it been true (as it was falſe). Let the Defamers conſider, if all their unſa<g ref="char:EOLhyphen"/>vory Jokes (or other ſins) were written on the Palms of their Hands, would they not be aſham'd to take off their Gloves, even at Meal times?</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>C.</hi>
+               </speaker>
+               <p>He wrote againſt me, and that was Crime enough, tho' I brought <hi>Scripture</hi> for every thing I ſaid.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>W.</hi>
+               </speaker>
+               <p>So did the Devil, 4 <hi>Mat.</hi> You prove things by Scripture as he that found fault with the Sign of the King or Queen, <hi>&amp;c.</hi> and urged that place of Scripture, <hi>A wicked and adulterous Generation ſeeketh a Sign, but no Sign shall be given to them, but the Sign of the Prophet Jo<g ref="char:EOLhyphen"/>nah;</hi> and therefore once ſeeing <hi>Jonah</hi> in a Sign, ſaid, that was lawful. I alſo remember, about twenty year ſince, preaching in a Pariſh-Church, (without Conformity by the way) I reproved a Country Farmer for <hi>ſleeping</hi> whilſt I was <hi>preaching;</hi> the ignorant man replied, He had been a long Journey, and was come home <hi>weary,</hi> and Chriſt ſaid, <hi>Come unto me all you that are weary and are heavy laden, and I will give you reſt.</hi> So odly, Mr. D. have you applied many Scriptures, and that in particular. Is it come to this, that when we tell your People that talk of their breaking the Law becauſe Chriſt kept it, Tell us roundly, <hi>what have we to do with the Law?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>C.</hi>
+               </speaker>
+               <p>Say what you will, Mr. <hi>W.</hi> one that animad<g ref="char:EOLhyphen"/>verted on the <hi>Reliquiae</hi> tells what you and ſuch as you are; that Book pleas'd my Followers to the Heart.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>W.</hi>
+               </speaker>
+               <p>He there told what you were, with your abo<g ref="char:EOLhyphen"/>minable Phraſes and Doctrine, <hi>p.</hi> 11, <hi>of Juſtif.</hi> and I have heard him ſay, <q>That if he thought that Book did your Cauſe any ſervice, he ſhould wiſh his Pen ſplit to the head when he wrote it;</q> but he believed no ſuch thing. His Diſcourſe of Juſtification there (on a new bottom, I confeſs, for which he had no Preſident) differs <hi>toto coelo</hi> from your Doctrine of Juſtification without Faith; Mo<g ref="char:EOLhyphen"/>deſty
+<pb n="8" facs="tcp:36934:6"/>forbids me to tell you what a florid Encomium he gave me, <hi>p.</hi> 175, 177. when he ſtigmatiz'd you; yet ſome of your Creatures here ſay, he then wrote for you, and againſt me; and ſince for me, and againſt you; when it is evident there is no diſcord in the <hi>Vindiciae</hi> and <hi>Apology</hi> in this reſpect: He and we all wonder how you came to imploy ſuch a <hi>bad man</hi> to plead your Cauſe, as a late Tradeſman, turning a Speaker.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>C.</hi>
+               </speaker>
+               <p>
+                  <hi>Bad</hi> do you call him! that was before his Con<g ref="char:EOLhyphen"/>verſion.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>A.</hi>
+               </speaker>
+               <p>Converſion man! I can eaſily prove, on his own Confeſſion, he is no Convert.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>C.</hi>
+               </speaker>
+               <p>How ſo?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>A.</hi>
+               </speaker>
+               <p>He that ſays, he never was troubled for Sin, is no Penitent; you had as good talk of an <hi>impenitent Pe<g ref="char:EOLhyphen"/>nitent:</hi> He that is no <hi>Peniteut</hi> is no <hi>Convert;</hi> you had as good talk of an <hi>unconverted Convert:</hi> He is one of <hi>Criſp</hi>'s Believers, not Chriſt's Converts.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>C.</hi>
+               </speaker>
+               <p>
+                  <hi>Troubled for Sin!</hi> Heaven forbid, I hope he ne<g ref="char:EOLhyphen"/>ver will be ſuch a <hi>Legaliſt,</hi> being ſo famous a Preacher of <hi>Free Grace.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>L.</hi>
+               </speaker>
+               <p>Why was not <hi>David</hi> troubled for his Sin? Was it not a <hi>heavy burden</hi> to him?</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>C.</hi>
+               </speaker>
+               <p>Read the 298th, 299th, and 300th Pages, and you have my Anſwer to the full. I prove plainly, that ſeeing our Sin is transferred from us to Chriſt, if ever Sin be laid home, it is ſo by Satan: That <hi>David</hi> ſinn'd; or had it been lawful, it cannot be to us now, ſince the great Sacrifice is offer'd up: Before the offering of Sa<g ref="char:EOLhyphen"/>crifice, then, if it were lawful, it was not ſo after.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>L.</hi>
+               </speaker>
+               <p>What Sacrifice was there for Murther or A<g ref="char:EOLhyphen"/>dultery under the Law? Therefore ſaith <hi>David, I would have offer'd Sacrifice,</hi> (Pſal. 51.16.) <hi>but the Sacrifices of God are a broken Spirit.</hi> You make it a Sacrifice for the Devil, Mr. Doctor: <hi>A broken and a contrite heart, O God, thou wilt not deſpiſe.</hi> Where, by a <hi>Meioſis,</hi> more is meant than is expreſs'd, Thou wilt greatly delight in; but you make ſport of it. <hi>The bones,</hi> ſays <hi>David, thou haſt broken may rejoice;</hi> but, according to you, the Devil <hi>broke</hi> 'em, not <hi>God.</hi> To be plain, Mr. <hi>Williams</hi> and Mr. <hi>Edwards</hi> dealt too tenderly with you, almoſt to a fault, and that in
+<pb n="9" facs="tcp:36934:6"/>this particular: I tell you, you are fitter to preach out of a Cage or Grate, than preach out of a Pulpit ſuch damnable Doctrine; you put out the <hi>Eye</hi> of Repentance, this alone proves you a notorious Heretick: Notwith<g ref="char:EOLhyphen"/>ſtanding, ſome ſay you ſpoke of <hi>Sadneſs leading to De<g ref="char:EOLhyphen"/>ſpair,</hi> &amp;c. did <hi>David</hi> then lie in your way? Any thing. They are three curſed pages.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>W.</hi>
+               </speaker>
+               <p>Pray Dr. hear me —</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>C.</hi>
+               </speaker>
+               <p>No, I care not to hear any <hi>Baxterian</hi> of you all.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>W.</hi>
+               </speaker>
+               <p>Strange! Mr. <hi>Humphreys</hi> juſt now cenſur'd me for being <hi>not</hi> a <hi>Baxterian,</hi> and you for <hi>being</hi> one, what ſhall I do?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>A.</hi>
+               </speaker>
+               <p>Will you hear <hi>me</hi> then?</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>C.</hi>
+               </speaker>
+               <p>No, that I will not; <hi>You once wish'd you had Windows in your Breaſt, that the late Popish Tyrant might ſee your Loyalty:</hi> I heard a Tory then ſay, <hi>He wish'd he had the making them,</hi> (being a Surgeon) <hi>he would have made them of a large ſize.</hi> And the late <hi>Prefacer</hi> tells what you are.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>A.</hi>
+               </speaker>
+               <p>Mr. <hi>Williams</hi> hath anſwer'd for me; I care not for the Cenſure of that late <hi>Plotter,</hi> of whom the ejected King gave order, <hi>That Care might be taken of him, that he might want nothing.</hi> In a late Traytorous Book he chargeth King <hi>W.</hi> to <hi>have Teſtimonials by him of his be<g ref="char:EOLhyphen"/>ing reconcil'd to the Church of</hi> Rome: And I think, among my Accuſers, there is none of them worth a hanging but he; he is, I confeſs, a man of parts, would he had been ſo too who anſwer'd <hi>Melius inquirendum.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>C.</hi>
+               </speaker>
+               <p>You are reputed to be a ſecond <hi>Hugh Peters,</hi> or <hi>Daniel Burgis,</hi> who have made their pulpits <hi>Stages,</hi> and themſelves as <hi>Theological Mountebanks;</hi> read your Sermon about <hi>Wowens Dreſſes,</hi> when ſo many Miniſters pull'd their Hats over their Faces to hear you.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>L.</hi>
+               </speaker>
+               <p>Mr. <hi>Alſop</hi> is a graver man in the pulpit than you; half the Stories of D. <hi>B.</hi> are Fables, as the Story of the <hi>Cloak,</hi> and how he loſt <hi>Sixty pound a Year for Christ,</hi> &amp;c. yet I wiſh him more Gravity with his Zeal.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>C.</hi>
+               </speaker>
+               <p>I pray have a little patience, and I will give you ſome account of my cenſur'd Book.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>A.</hi>
+               </speaker>
+               <p>I doubt a little Patience will not ſerve the turn, we had need have a great deal, to hear ſuch woful ſtuff,
+<pb n="10" facs="tcp:36934:7"/>which to hear contentedly, ſome would think <hi>Stupidity,</hi> not <hi>Patience.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>C.</hi>
+               </speaker>
+               <p>I will do it, ſay what you will; my Son tells the World, to the <hi>Criſpian</hi> Reader, (for ſo it ſhould have been inſtead of <hi>Chriſtian</hi>) That <hi>he hath written about</hi> 5200 <hi>Sermons after Dr.</hi> Owen <hi>and other famous Divines,</hi> and that <hi>not ſix Sermons contradict any Doctrine of mine.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>L.</hi>
+               </speaker>
+               <p>That proves either that your Son never un<g ref="char:EOLhyphen"/>derſtood Dr. <hi>Owen</hi> or them, or underſtood not you, nor thoſe neither whom he cenſures to <hi>bear the Number of the Beaſt;</hi> and what have ſuch private men to do with our Controverſies, who by this thing declares plainly he underſtands them not?</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>C.</hi>
+               </speaker>
+               <p>If he pleaſe you not, I hope my good Friend Mr. <hi>Cokyan</hi> the <hi>wiſe</hi> will, in his <hi>learned well-pen'd</hi> Epi<g ref="char:EOLhyphen"/>ſtle to his <hi>Precious Hearts,</hi> who ſays, <hi>He is confident all that are led by the Spirit of God will be ſatisfied.</hi> He tells you as well as <hi>Paul</hi> and I, If an Angel from Heaven preach other Doctrine, he is accurſed.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>L.</hi>
+               </speaker>
+               <p>If they be accurſed who bring in <hi>Works</hi> in Ju<g ref="char:EOLhyphen"/>ſtification, muſt not they keep them company who leave out <hi>Faith?</hi> Is there not a Curſe in taking from, as well as in adding to?</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>C.</hi>
+               </speaker>
+               <p>In the beginning of my Book on 14 <hi>John</hi> 6. <hi>I am the way, the truth, and the life,</hi> I told my Hearers, that <hi>I would tickle their Ears,</hi> and <hi>tickle their Hearts too;</hi> and for this end I told them, <hi>p.</hi> 3, of the <hi>Hiddeneſs</hi> of Grace, and the <hi>Overmaſterfulneſs</hi> of Sin, and that there was a threefold Power of Sin, 1, <hi>A reigning power,</hi> 2. <hi>A tyrannical power,</hi> 3. <hi>A buſtling and ruffling power;</hi> and alſo, that —</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>A.</hi>
+               </speaker>
+               <p>Doctor, ſtop; I ſuppoſe you meant <hi>grate</hi> their Ears, when you talk'd of <hi>tickling</hi> them.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>W.</hi>
+               </speaker>
+               <p>Let him go on, you ſhall hear worſe by and by, and then judge whether the Cry againſt me be true, <hi>That I have miſrepreſented him.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>C.</hi>
+               </speaker>
+               <p>Againſt <hi>Qualifications</hi> in them that come to Chriſt, I often urge that pertinent place of Scripture, 11 <hi>Mat.</hi> 28. <hi>Come unto me all you that labour and are heavy laden, and I will give you reſt.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="11" facs="tcp:36934:7"/>
+               <speaker>Mr. <hi>A.</hi>
+               </speaker>
+               <p>But why had you not urged another place of Scripture more pertinent than that?</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>C.</hi>
+               </speaker>
+               <p>What is that?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>A.</hi>
+               </speaker>
+               <p>And <hi>the</hi> Gibeonites <hi>came to</hi> Joſhua <hi>with old Shoes, and clouted;</hi> doth not that place prove as much as any the contrary to what you aſſert?</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>C.</hi>
+               </speaker>
+               <p>You and all the World know, you may as ſoon teach a <hi>Cat to hold a Trencher,</hi> as me to manage a Con<g ref="char:EOLhyphen"/>troverſie, or anſwer Objections, and yet you will be pelt<g ref="char:EOLhyphen"/>ing at me; I am ſuch a very Sir <hi>John,</hi> no one expects it of me that knows me, and is in his Wits.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>A.</hi>
+               </speaker>
+               <p>Well, Sir <hi>John,</hi> then go on with your blunders in Divinity.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>C.</hi>
+               </speaker>
+               <p>I often ſaid alſo, That <hi>God was never oflended</hi> (or angry) <hi>with a Believer, nor could not be, unleſs he was offended or angry where was no cauſe.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>L.</hi>
+               </speaker>
+               <p>This is <hi>buſtling, ruffling</hi> Stuff; but did you Anſwer ſuch Objections, <hi>The Anger of the Lord was kindled againſt Moſes,</hi> 4 Exod. 14. and a thouſand ſuch places of Scripture?</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>C.</hi>
+               </speaker>
+               <p>At what an idle rate doth this man talk! I knew I could ſay what I pleaſed, tho' I could prove no<g ref="char:EOLhyphen"/>thing. Inſtead of this, I ſaid, That <hi>I declared all from God, and in the name of the Lord;</hi> and that <hi>if any Scri<g ref="char:EOLhyphen"/>pture ſeemed contrary, we muſt believe what God in the Text ſays, God cannot contradict himſelf.</hi> Then I tell them of Love, and other Graces, as they call them.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>A.</hi>
+               </speaker>
+               <p>Yes, we know you often ſay, <hi>as we call them,</hi> and ſo the Scripture calls them; What do you call them I pray, <hi>Whims,</hi> with our modern Deiſts?</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>C.</hi>
+               </speaker>
+               <p>I tell them of ſuch as you all: You make Gods Covenant a <hi>Bargain</hi> or <hi>Sale, p.</hi> 24, <hi>I will do this, and thou ſhalt do that,</hi> &amp;c. but <hi>God will not ſet his Son to ſale:</hi> And ſomewhere I tell them, <hi>Such ſhall have a Whip as ſoon as a Chriſt;</hi> and <hi>p.</hi> 73, I tell them, <hi>If they thought to get any thing by Duty, they should get a knock.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>A.</hi>
+               </speaker>
+               <p>Oh, for Love and Pity ſake, ſend ſome one for a Cordial, for I am ready to faint away to hear ſuch Gibberiſh; if this be <hi>tickling our Ears,</hi> would his Maſter had tickled this <hi>Toby</hi> every day, and taught him to ſpeak, tho' but at a common rate; did you think you were at a Play?</p>
+            </sp>
+            <sp>
+               <pb n="12" facs="tcp:36934:8"/>
+               <speaker>Dr. <hi>C.</hi>
+               </speaker>
+               <p>I tell you, you cannot endure ſound Doctrine: I brought more Proofs againſt Qualifications coming to Chriſt, <hi>p.</hi> 35, <hi>If men thirſt, they may come;</hi> that is, <hi>have but a mind to Chriſt.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>L.</hi>
+               </speaker>
+               <p>Why is not <hi>thirſting</hi> a Qualification? Is a <hi>mind</hi> to ſome Drinks <hi>thirſting?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>C.</hi>
+               </speaker>
+               <p>I told them, <hi>I came in the Name of the Lord;</hi> and that if this <hi>was not true,</hi> God <hi>is a Lyar,</hi> and <hi>Chriſt is a Lyar, with reverence be it ſpoken,</hi> — and that you are <hi>ravening Wolves, p.</hi> 56, and ſtrait is the Gate. I have expounded to admiration 6 <hi>Mat.</hi> 13.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>L.</hi>
+               </speaker>
+               <p>Oh thou blaſphemous Wretch! doſt thou think to ſpeak of Chriſt as if of <hi>Oliver</hi>'s <hi>Porter? with re<g ref="char:EOLhyphen"/>verence be it ſpoken,</hi> ſome think, gilds all their naſty <hi>Phra<g ref="char:EOLhyphen"/>ſes.</hi> If you ſhould have a Promiſe from the King, and you doubted not his word, would you dare to ſay, If it be not ſo, your majeſty is a Lyar, <hi>with reverence be it ſpoken? Offer it now to thy Governor,</hi> ſay I, as the Prophet in a eaſe not ſo bad.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>W.</hi>
+               </speaker>
+               <p>Seeing you make ſo bold with Chriſt, which is intolerable, had your Doctrine been as true, (as it is falſe) I hope I may make bold with you, his Enemy, and mine, and of all the Churches of God. If the Doctrine be falſe, and the Expreſſions blaſphemous, you are a filthy <hi>Heretick, with reverence be it ſpoken;</hi> or an ignorant im<g ref="char:EOLhyphen"/>pudent Fellow, <hi>with reverence be it ſpoken,</hi> and that you had need to be ſent to School again, <hi>with reverence be it ſpoken,</hi> becauſe of your notorious Contradictions, childiſh Repetitions of the ſame things, <hi>&amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>C.</hi>
+               </speaker>
+               <p>Such may thus find fault, that never read over my Book, nor obſerved the coherence of things.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>A.</hi>
+               </speaker>
+               <p>I have read it over every word, but I confeſs I never obſerved (as you ſay) the <hi>coherence of things,</hi> for lit<g ref="char:EOLhyphen"/>tle is there of this, but <hi>incoherence</hi> enough have we all ob<g ref="char:EOLhyphen"/>ſerved.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>C.</hi>
+               </speaker>
+               <p>I told them alſo, <hi>men might come to Chriſt in any pickle,</hi> &amp;c. That <hi>juſtifying Faith is to believe a man' Sins were laid on Chriſt. Other things were not neceſſary as not to concurrence, ſo not to preſence,</hi> &amp;c. That <hi>the gene<g ref="char:EOLhyphen"/>ral tender of the Goſpel was the beſt Security we could have,</hi> &amp;c. I often harp on this thing, God juſtifieth the
+<pb n="13" facs="tcp:36934:8"/>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ngodly,</hi> in whom is no change; and I unanſwerably proved it from 55 <hi>Iſa.</hi> 1. <hi>Ho, every one that thirſteth, come ye to the waters: incline your ear, hear, and your ſoul ſhall live.</hi> 22 Rev. 17, <hi>He that is a thirſt, let him come.</hi> Some will not have Chriſt unleſs they <hi>pay for him.</hi> I ſaid, <hi>I wish they were cut off that trouble us,</hi> and little leſs than damn them all.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>A.</hi>
+               </speaker>
+               <p>Prithee <hi>Criſp,</hi> how long haſt thou been crazy? If this be <hi>proving,</hi> return to thy old way of <hi>telling;</hi> theſe are Proofs for your Adverſaries, and Objections for you.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>C.</hi>
+               </speaker>
+               <p>I ſaid to them <hi>from the Lord,</hi> That <hi>Sin could be no bar to them from coming to Chriſt; no Sin, not <g ref="char:V">Ʋ</g>nbe<g ref="char:EOLhyphen"/>lief:</hi> Some ſay, <hi>Men muſt receive Chriſt by a hand of Faith;</hi> but I ſay, <hi>They may receive Chriſt without a hand, paſſively;</hi> — I diſown the word <hi>Hand</hi> or <hi>Inſtrument in Juſtification.</hi> There is a <hi>paſſive receiving of Chriſt againſt a man's will, as we pour Phyſick down the Throat of a Pa<g ref="char:EOLhyphen"/>tient,</hi> p. 98. I ſaid alſo, <hi>p.</hi> 102, When Chriſt is ſaid to <hi>bind up the broken in Spirit,</hi> it is of thoſe that are <hi>undone,</hi> not of thoſe that <hi>are ſenſible of being ſo;</hi> as a man may be broken in his Eſtate or Credit, tho' not ſenſible of it.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>A.</hi>
+               </speaker>
+               <p>Was there ever ſuch a <hi>ſenſleſs</hi> Perverter of Scripture! I doubt thy <hi>Head</hi> was <hi>early broken,</hi> if thy <hi>Heart</hi> was never ſo: Is this to be broken or wounded in Spirit? <hi>p.</hi> 106.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>C.</hi>
+               </speaker>
+               <p>Of general tenders read much. In 127, I there make ſport with mens Complaints; I ſay, <hi>O what a noiſe is here! I muſt have a broken Heart, mortification,</hi> &amp;c. And <hi>p.</hi> 114, I bewail it, that the Servants of God ſhould loſe the Name of <hi>Libertines:</hi> And <hi>p.</hi> 170, I ſaid, <hi>God ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es no Sins in his own, never puniſheth for them;</hi> and <hi>p.</hi> 198, <hi>God is not ſuch a Changling;</hi> and <hi>p.</hi> 202, <hi>If thou be a com<g ref="char:EOLhyphen"/>mon Swearer or Blaſphemer, come; if there be no alterati<g ref="char:EOLhyphen"/>on in thee, come; if thou be as ſinful as thy skin can hold, come.</hi> 16 <hi>Ezek.</hi> I cite again, and again, and again, <hi>&amp;c.</hi> v. 6, <hi>When caſt in the open field, when in thy blood, I ſaid to thee, live.</hi> This <hi>was a time of love, I made a covenant with thee, and thou becameſt mine.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>L.</hi>
+               </speaker>
+               <p>For that Scripture, can you deny that the pri<g ref="char:EOLhyphen"/>mary intention of it is, to ſhew the ſtate of the Jewiſh Nation? <hi>Ver.</hi> 3, <hi>Thy Father was a</hi> Amorite, <hi>thy Mother
+<pb n="14" facs="tcp:36934:9"/>a</hi> Hittite. <hi>Abraham</hi> and <hi>Sarah</hi> could not be ſuch ſtrictly, but like as 1 <hi>Iſa.</hi> 10, <hi>Hear, you Rulers of</hi> Sodom; <hi>give ear ye People of</hi> Gomorrah. <hi>Jeruſalem</hi> was ſo call'd, becauſe like them in manners and life. 13 <hi>Ver.</hi> of the 16. of <hi>Ezek. After they multiplied, and God put Ornaments on them,</hi> it is ſaid, <hi>they proſper'd into a Kingdom.</hi> Read the 15 Verſe, he chargeth theſe with playing the <hi>Harlot,</hi> committing <hi>Fornication:</hi> 17. That they made <hi>Images</hi> with theſe Jew<g ref="char:EOLhyphen"/>els, (not Graces ſure). 21, <hi>Thou haſt made my Children paſs through the fire.</hi> 20. <hi>Thou remembredſt not the days of thy youth, when thou waſt polluted in thy blood.</hi> 29, <hi>Wo unto thee, ſaith the Lord God:</hi> they committed <hi>Fornicati<g ref="char:EOLhyphen"/>on</hi> with the <hi>Egyptians,</hi> and in the Land of <hi>Canaan.</hi> 26, 29, <hi>O Harlot, hear the word of the Lord.</hi> Is there, Sir, any falling from Grace? 60, 61, Shews, God would bring them again out of <hi>Babylon,</hi> and humble them: Yet all this is well accommodated by Divines ſpiritually; but <hi>Para<g ref="char:EOLhyphen"/>bola non ſunt Argumentativa niſi ratione ſcopi,</hi> is a com<g ref="char:EOLhyphen"/>mon known Rule.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>C.</hi>
+               </speaker>
+               <p>What ſay you to the 15th of <hi>John?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>L.</hi>
+               </speaker>
+               <p>15 <hi>John</hi> 4. <hi>If you abide in me, the Branch a<g ref="char:EOLhyphen"/>bides in the Vine:</hi> 5th, 6th &amp; 7th Verſes ſpeak of <hi>Abi<g ref="char:EOLhyphen"/>ding,</hi> not <hi>
+                     <g ref="char:V">Ʋ</g>niting.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>C.</hi>
+               </speaker>
+               <p>What ſay you to <hi>Iſaiah, I am found of them that ſought me not? Iſaiah</hi> 65 1, are plain words, are they not?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>L.</hi>
+               </speaker>
+               <p>That makes nothing to your purpoſe, I ſaid, <hi>Behold me, behold me,</hi> to a People <hi>not call'd by my Name;</hi> they had no Helps to ſeek: But, I pray, what ſpecifick difference is there between the Eccho or Belief of a man who believes his Sins laid on Chriſt, that proves vile ſtill, and his that doth not ſo? What is the matter, that in all your wordy Book you do not, according to all men, diſtinguiſh as becomes a Scholar or a Man?</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>C.</hi>
+               </speaker>
+               <p>You know the reaſon well enough without my telling, would you have me, like a young Conjurer, to raiſe a Spirit I could not alay? A Dr. in <hi>Oxford</hi> once di<g ref="char:EOLhyphen"/>ſtinguiſh'd in the Hall, <hi>Aliquo modo eſt, &amp; aliquo modo non.</hi> I do like a Moderator I knew in that Univerſity, who when the Queſtion was, <hi>An Omne Ens potefl apprehendi?</hi> (carried in the affirmative) one brought a ſhrewd Argu<g ref="char:EOLhyphen"/>ment againſt it, he anſwer'd, <hi>Nos diſputamus non de iis
+<pb n="15" facs="tcp:36934:9"/>Entibus, quae non poſſunt apprehendi, ſed quae poſſunt appre<g ref="char:EOLhyphen"/>hendi.</hi> I often expound 11 <hi>Heb.</hi> 1, <hi>Faith is the evidence of things not ſeen;</hi> that is, that <hi>they were pardon'd and ju<g ref="char:EOLhyphen"/>ſtified before they believed in the heighth of all their wic<g ref="char:EOLhyphen"/>kedneſs.</hi> Alas, they were nothing that expounded on this Text, till I gave the true ſenſe; I gave the World the firſt light of thoſe words: ſee whether you can find Mr. <hi>Pool</hi> (that great man) to think of it. I have alſo ſaid in about fourteen or fifteen Sermons on this Text, <hi>On him hath God laid the Iniquity of us all; p.</hi> 160, 177, 170, It was <hi>the Iniquity it ſelf laid on Chriſt,</hi> ſo that it <hi>cannot be found in the Conſcience of the elect to ſting there; they are not our Sins, but Chriſt's actually ſo.</hi> — I over and over obſerve it is not God doth lay, or will lay, but hath laid, in the Preterperfect Tenſe, and therefore God laid them on him from Eternity. —</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>L.</hi>
+               </speaker>
+               <p>You might as well ſay, Chriſt was actually cru<g ref="char:EOLhyphen"/>cified from Eternity: it is ſaid in the ſame Chapter, <hi>He was a man of ſorrows;</hi> not is, or ſhall be: <hi>He was lead as a Lamb before the Shearers;</hi> not is, or ſhall be: <hi>He was numbred amoug Tranſgreſſors;</hi> not is, or ſhall be.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>C.</hi>
+               </speaker>
+               <p>I tell them, <hi>p.</hi> 18, They ſhould not <hi>make God ſo childiſh,</hi> as ſome do; <hi>p.</hi> 195, I ſaid, <hi>If God were not ſepa<g ref="char:EOLhyphen"/>rated from Chriſt, Chriſt told an untruth, when he ſaid,</hi> my God, my God, why haſt thou forſaken me? <hi>No Sin can be charged on that man, to whom the Lord gives a heart to belieue his Iniquities are laid on Chriſt.</hi> P. 196, That <hi>it is a lying Spirit that ſays Sin can waſte the Conſcience of a Believer;</hi> I tell them, That by their Graces and Prayers they <hi>throw Dirt in the Face of God,</hi> and ſpit <hi>Poy<g ref="char:EOLhyphen"/>ſon there,</hi> even the beſt Saints; and the Wiſe man ſaith, <hi>They are an Abomination to the Lord.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>A.</hi>
+               </speaker>
+               <p>You are a <hi>Child,</hi> and worſe, <hi>with Reverence be it ſpoken. Solomon</hi> ſays thus of the Prayers of the wic<g ref="char:EOLhyphen"/>ked; but of the righteous, that <hi>they are his delight.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>C.</hi>
+               </speaker>
+               <p>I carefully diſtinguiſh once, <hi>p.</hi> 358, our Sins were laid on Chriſt by way of <hi>Obligation from Eternity;</hi> 2. <hi>By way of Execution;</hi> 3. By <hi>way of Application.</hi> I told them, Chriſt ſtood <hi>as very a Sinner in Gods Eye as a Reprobate:</hi> That our Sins were laid on Chriſt's <hi>Back,</hi> is my common Phraſe: That his <hi>Back was large enough and
+<pb n="16" facs="tcp:36934:10"/>broad enough</hi> to <hi>bear all our Tranſgreſſions:—God wore out the Rod of Vengeance, even to the very ſtumps, on Chriſt.</hi> The waſhing, 16 <hi>Ezek.</hi> 9, was the waſhing of <hi>Juſtification</hi> not <hi>Sanctification. Sin ſtares men in the Face, and ſpits Fire in them before they come to Chriſt.</hi> P. 517, &amp; <hi>p.</hi> 543, We muſt not think God ſo <hi>humourſome,</hi> and ſo <hi>peeviſh:</hi> We tell God, <hi>That he lyes to his Face, if we tell Believers,</hi> that <hi>if they do not this and that, they ſhall come under the wrath of God.</hi> P. 559, Againſt <hi>Qualifications,</hi> (at which I ſtrike on all occaſions, even <hi>Faith</hi> it ſelf) for they make the <hi>Covenant of Grace</hi> a <hi>Covenant of Works.</hi> P. 633, I make this notable Remark, 16 <hi>Luke</hi> 20, The young Pro<g ref="char:EOLhyphen"/>digal return'd to his Father like a <hi>Rogue,</hi> then the Robes were put on him.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>L.</hi>
+               </speaker>
+               <p>Was not this an excellent Proof? No; he re<g ref="char:EOLhyphen"/>turn'd not like a Rogue, (neatly phras'd, like a D. of D. by the way) tho' (if you will ſo untheologically expreſs it) he went away like one, for it is ſaid before, <hi>When he came to himſelf</hi> (I hope by the way <hi>you</hi> may in time) he was, you find, ſo changed; there was Humility in his Heart, Confeſſions in his Mouth, and a begun Reforma<g ref="char:EOLhyphen"/>tion: <hi>I will ariſe, and go to my Father, and will ſay unto him, Father, I have ſinned againſt Heaven, and before thee, and am no more worthy to be called thy Son, make me one of thy hired Servants.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>C.</hi>
+               </speaker>
+               <p>I ſee you will ſtill be objecting, which thing I could never endure, being known to be the weakeſt and feebleſt <hi>Sect-maſter</hi> that ever was ſince the Creation. But what makes you ſmile, Mr. <hi>Alſop?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>A.</hi>
+               </speaker>
+               <p>To ſee a man plead for a <hi>Faith</hi> without <hi>Re<g ref="char:EOLhyphen"/>pentance,</hi> or <hi>Sorrow</hi> and <hi>Sadneſs,</hi> and make ſuch Proſe<g ref="char:EOLhyphen"/>lytes. It puts me in mind what the <hi>King</hi> of the <hi>Ammo<g ref="char:EOLhyphen"/>nites</hi> did to <hi>David</hi>'s meſſengers, 2 <hi>Sam.</hi> 10.4, <hi>ſhaved off one half of their Beards,</hi> and cut off their Garments to the middle, even to their Buttocks. and ſent them away: So you ſend away, and ſo look, your Converts with Faith without Repentance; but <hi>David</hi> bids them tarry at <hi>Je<g ref="char:EOLhyphen"/>richo,</hi> till their Beards were grown. Let Repentance grow, elſe you are not compleat, but half Chriſtians; <hi>Hanun</hi> paid dear for what he did, and ſo may you.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>C.</hi>
+               </speaker>
+               <p>Do you think I am a Witch, to anſwer ſuch a man as you:</p>
+            </sp>
+            <sp>
+               <pb n="17" facs="tcp:36934:10"/>
+               <speaker>Mr. <hi>A.</hi>
+               </speaker>
+               <p>No truly, they would do you a great deal of wrong that ſhould ſo charge you.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>L.</hi>
+               </speaker>
+               <p>Brother <hi>Williams,</hi> and Brother <hi>Alſop,</hi> let us be gone, I care to ſtay no longer to hear ſuch abominable Phraſes, Doctrius, and Hereſies, from ſuch a Brainleſs man.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>C.</hi>
+               </speaker>
+               <p>Pray, Sirs, come back; I will now endeavour to ſay ſomething that may pleaſe you: I ſaid, after all, <hi>p.</hi> 638, <hi>Good works are comfortable Evidences that we are in Chriſt.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>W.</hi>
+               </speaker>
+               <p>Well ſaid Dr. then a man may fetch ſome com<g ref="char:EOLhyphen"/>fort from his Graces: Conſider what <hi>Paul</hi> ſaid, 1 <hi>Cor.</hi> 2.12, <hi>For our rejoycing is this, the teſtimony of our Conſci<g ref="char:EOLhyphen"/>ences, that in ſimplicity and godly ſincerity we have had our converſation in the World.</hi> Have you not denied fetch<g ref="char:EOLhyphen"/>ing Comfort from hence, becauſe all from Chriſt, and ar<g ref="char:EOLhyphen"/>gued all-along at ſuch an idle rate, as if I, preaching in thoſe words, 1 <hi>Tim.</hi> iv. 16, <hi>So ſhalt thou ſave thy ſelf and them that hear thee;</hi> I ſhould lay down this Doctrine, <hi>Miniſters are their own Saviours, and the Saviours of their hearers:</hi> then <hi>God is not their Saviour,</hi> nor <hi>Chriſt,</hi> &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>C.</hi>
+               </speaker>
+               <p>I will think of it: I ſaid alſo, That Chriſt <hi>draws without an abſolute neceſſary compulſion,</hi> but draws ſweetly and freely to <hi>good works.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>L.</hi>
+               </speaker>
+               <p>What! is the <hi>Phyſick poured down the Throat</hi> come to this?</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>C.</hi>
+               </speaker>
+               <p>And <hi>p.</hi> 676, in the Sermon about the Faſt ap<g ref="char:EOLhyphen"/>pointed by my good King <hi>C.</hi> the firſt, (whom I there commend) I ſaid, The end of a Faſt is, 1. The humbling us for Sin; 2. The pleaſing of God; 3. The averting of Wrath. That Faith that <hi>juſtifies alone, ſtands not alone without good works.</hi> 685. Then I tell them, <hi>when a Man ſees Chriſt as the chief of ten thouſand, and all ſair, then he comes to him,</hi> 101. That <hi>God hides his Face from a Belie<g ref="char:EOLhyphen"/>ver when he harbours Sin,</hi> 688.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>L.</hi>
+               </speaker>
+               <p>But did you not ſay things over and over, and with great Zeal, things diametrically oppoſite? Is the juſtified <hi>blind man</hi> at the ſame time a <hi>ſeeing man?</hi> Sees Chriſt <hi>fair,</hi> &amp;c? Sure theſe be unuſual contradictions: No doubt Mr. <hi>Edwards</hi>'s Charge in his <hi>Criſpianiſm <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>mask'd</hi> is too true; but I doubt, after all this, the <hi>Vertigo</hi> will ſoon take you again, notwithſtanding ſome intervals.</p>
+            </sp>
+            <sp>
+               <pb n="18" facs="tcp:36934:11"/>
+               <speaker>Mr. <hi>L.</hi>
+               </speaker>
+               <p>I doubt Brethren, this man makes not a few Atheiſts or Scepticks. Tho' great is their folly that con<g ref="char:EOLhyphen"/>clude <hi>Chriſt is not of God</hi> becauſe we contend, about his perſon, and offices. As if becauſe there are diſputes a<g ref="char:EOLhyphen"/>mong Philoſophers whether the Sun be <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, whe<g ref="char:EOLhyphen"/>ther it heat <hi>formaliter or eminenter,</hi> whether the old <hi>Pto<g ref="char:EOLhyphen"/>lomaicks</hi> or new <hi>Capernicans</hi> be right about the Suns <hi>mo<g ref="char:EOLhyphen"/>tion</hi> or the <hi>earths</hi> motion, therefore ſhould conclude there is no Sun nor Earth neither, and ſo might we name a thou<g ref="char:EOLhyphen"/>ſand other things.</p>
+            </sp>
+            <sp>
+               <speaker>M. <hi>W.</hi>
+               </speaker>
+               <p>You ſpeak honeſtly and ſoberly, good Mr. <hi>Lob:</hi> You know this man's Followers preach up, that Conver<g ref="char:EOLhyphen"/>ſion changeth not <hi>a man's ſtate</hi> but nature only.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>C.</hi>
+               </speaker>
+               <p>Oh, how <hi>Herod</hi> and <hi>Pontius Pilate</hi> became <hi>Friends</hi> againſt <hi>Chriſt!</hi> how <hi>friendly</hi> you two are againſt <hi>Free-Grace!</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>A.</hi>
+               </speaker>
+               <p>Lay aſide the Compariſon of <hi>Herod</hi> and <hi>Pon<g ref="char:EOLhyphen"/>tius Pilate,</hi> they have ſerved all turns, and are grown thread-bare, and therefore 'tis high time to let them alone.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>C.</hi>
+               </speaker>
+               <p>Look to your ſelves, I tell you, <hi>If any man Preach any other Doctrine than</hi> I do, you <hi>know the Con<g ref="char:EOLhyphen"/>ſequence, as</hi> I ſay <hi>in my Book?</hi> Look yonder, here is com<g ref="char:EOLhyphen"/>ing my Brother <hi>Toune,</hi> and my Brother <hi>Eaton,</hi> they will juſtifie me, and knock you all down. For ſome ſay they write ſomething like ſence and truth, who will by no means grant that I do.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>L.</hi>
+               </speaker>
+               <p>What ſay you, Mr. <hi>Toune?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>T.</hi>
+               </speaker>
+               <p>Gentlemen, you are men of known worth, and therefore you cannot be ignorant, that to under<g ref="char:EOLhyphen"/>ſtand a Polemical man, you muſt conſider againſt whom he writ: I wrote againſt the <hi>Arminians</hi> (Dr. <hi>Taylor</hi> in particular) not againſt the <hi>Calviniſts,</hi> as <hi>Crup</hi> did, whoſe madneſs hath ruin'd our Cauſe, he is as. 1 <hi>Tim.</hi> 1.7. a <hi>Doctor of the Law,</hi> and <hi>underſtands not what he ſays, nor whereof he affirms.</hi> Read, worthy Sirs, <hi>p.</hi> 115. of my Book of <hi>Free-Grace,</hi> if <hi>p.</hi> 33. ſeems harſh, I am not of your opinion, great Sirs: I modeſtly confeſs, and be ſure not of <hi>Crisps,</hi> for, on my principles as well as yours, he is guilty of damnable Hereſies.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>C.</hi>
+               </speaker>
+               <p>Bleſs me! Did I ſend for thee <hi>Toune,</hi> to juſti<g ref="char:EOLhyphen"/>fie me, and knock down my Enemies, and doſt thou juſti<g ref="char:EOLhyphen"/>fie
+<pb n="19" facs="tcp:36934:11"/>my Enemies in their Charge againſt me, and knock down me? Good Brother <hi>Eaton,</hi> ſpeak one word for me, let your lips drop as the <hi>Honycomb.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>W.</hi>
+               </speaker>
+               <p>What ſay you, Mr. <hi>Eaton?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>E.</hi>
+               </speaker>
+               <p>Brethren, (I hope I may call you ſo) tho' our Heads differ, yet I cannot call this <hi>tattling prating Dr.</hi> ſo, being of your Opinion and Mr. <hi>Toune</hi>'s, he is a notorious Heretick; for, if it pleaſe you, read the beginning of my <hi>Honycomb,</hi> and you will find I was ſo far from <hi>Criſp</hi>'s mad definition of Juſtification, that I rather gave one <hi>more like yours</hi> than <hi>his.</hi> Theſe are my very words, <hi>Juſtification is when we, feeling what loft creatures we are in our ſelves,</hi> and in <hi>all our works</hi> and <hi>holy walkings, by reaſon of our ſins, and ſighing up unto</hi> Chriſt <hi>for help, are by the power of God's Imputation ſo clothed, with the Wedding-garment of</hi> Chriſt<hi>'s own perfect Righteouſneſs, that of unjuſt, we are made juſt before God;</hi> that is, <hi>all our ſins are utterly aboliſh'd out of God's ſight, and we are made, from all ſpot of ſin, perfectly holy, and righteous in the ſight of God, freely.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>L.</hi>
+               </speaker>
+               <p>We are well ſatisfied, you need ſay no more, you are not in the number of thoſe Hereticks we now cenſure; I hope you drove not at this, <hi>That men ſhould never have any ſadneſs for ſin,</hi> &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>E.</hi>
+               </speaker>
+               <p>I ſhould be glad, Gentlemen, of your good company at another time.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>W.</hi>
+               </speaker>
+               <p>And we of yours, Mr. <hi>Eaton.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>L.</hi>
+               </speaker>
+               <p>Dr. <hi>Criſp,</hi> what ſay you to all this?</p>
+            </sp>
+            <sp>
+               <speaker>Dr. C.</speaker>
+               <p>One thing, I am ſure I ſhall not want Followers for all this; for if all Wiſe men leave me, there are Fools enough to follow me, ay, Preachers too; a D. and <hi>J.</hi> are to be found in all places.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>A.</hi>
+               </speaker>
+               <p>I will not ſay <hi>pares cum paribus.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dr. C.</speaker>
+               <p>Stop, I tell you, you will never give over your Buf<g ref="char:EOLhyphen"/>foonry. It was a great trouble of mind to your Brother <hi>Hugh Peters,</hi> as he tells us in his honeſt Legacy to his Daughter, where he ſaith, <hi>I wiſh I had not been vain in a vain World.</hi> And tho' he ſays, <hi>Not three men ever dealt with him in a ſerious way about it,</hi> you cannot ſay ſo. It is ſaid of ſome, when they are in the Pulpit, It is pity they ſhould ever come out; others, That <hi>when they are out, it is pity they ſhould ever come in;</hi> you, Sir, however are accounted a good man, that is to ſay, in a Pulpit.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>A.</hi>
+               </speaker>
+               <p>I cannot endure to be reflected on for being <hi>good</hi> on<g ref="char:EOLhyphen"/>ly in a Pulpit, by them that are <hi>not good out of it,</hi> nor <hi>there nei<g ref="char:EOLhyphen"/>ther.</hi> Did I ever play in the Pulpit, as you, on your own con<g ref="char:EOLhyphen"/>feſſions and others, know much worſe. <hi>H. Peters</hi> play'd with Di<g ref="char:EOLhyphen"/>vinity it ſelf too often, tho' I have reaſon to hope he was a <hi>good man,</hi> I only with a D. of Divinity, that is to ſay, he with holy
+<pb n="20" facs="tcp:36934:12"/>things, I with prophane. However, I remember what good <hi>Moniea</hi> got by a chiding word of an angry Goſſip, <hi>Aug. Confeſ.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>L.</hi>
+               </speaker>
+               <p>A little of this is too much; We even beſeech you, Dr. <hi>Criſp,</hi> Anſwer us plainly to a few Queſtions, the Company deſire it.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. C.</speaker>
+               <p>Gentlemen, I will; ſeeing you ask me ſo civilly, on<g ref="char:EOLhyphen"/>ly I deſire you to keep that <hi>Alſop</hi> quiet, it it be poſſible.</p>
+            </sp>
+            <sp>
+               <speaker>Nr. <hi>L.</hi>
+               </speaker>
+               <p>I pray, of what Communion or Party were you?</p>
+            </sp>
+            <sp>
+               <speaker>Dr. C.</speaker>
+               <p>Had I thought that had been one of the Queſtions, I would not have make you ſuch a Promiſſe, for not one to a hun<g ref="char:EOLhyphen"/>dred of my <hi>Ignoramus's</hi> know: I tell you, of the Church of <hi>En<g ref="char:EOLhyphen"/>gland,</hi> and ſo was Mr. <hi>Toune,</hi> who glories, in his Book, that he was no Separatiſt; and Mr. <hi>Eaton</hi> was of the ſame Party; and yet moſt think I was ſome great <hi>Diſſenter,</hi> a kind of <hi>Independent.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>L.</hi>
+               </speaker>
+               <p>Muſt the <hi>Independents</hi> have your Baſtardly Brats and Heretical Doctrines laid at their Doors? All ſuch Weeds grow in your Church, <hi>Socinianiſm, Arminianiſm, Antinomianiſm, Deiſm</hi> and what not; and yet the Independents, forſooth, muſt be charged with your mad Notions. Some of your Followers will not confeſs Sin, nor beg Pardon; was this your Practice?</p>
+            </sp>
+            <sp>
+               <speaker>Dr. C.</speaker>
+               <p>No; how could I, when clothed with a Surplice un<g ref="char:EOLhyphen"/>der a black Gown, (as an Emblem of the Juſtification of an un<g ref="char:EOLhyphen"/>changed unſanctified Sinner) and when the Common-prayer-book was in my hand? how could I read the <hi>Confeſſion,</hi> (what without Confeſſion?) the <hi>Abſolution,</hi> the <hi>Litany,</hi> or other good Prayers of the Church?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>L.</hi>
+               </speaker>
+               <p>Then you made Confeſſion of Sin <hi>politickly,</hi> if not <hi>con<g ref="char:EOLhyphen"/>ſcientiouſly!</hi> thank your fat Benefice, your <hi>Tyth-corn,</hi> and <hi>Tyth<g ref="char:EOLhyphen"/>pigs,</hi> that hung in your Teeth, I wonder the Letany had not choak'd you, and other Prayers. Can you ſay nothing for your Followers contrary Practice?</p>
+            </sp>
+            <sp>
+               <speaker>Dr. C.</speaker>
+               <p>Yes, yes for if all Sins, <hi>paſt, preſent,</hi> and <hi>to come,</hi> be at once <hi>forgiven,</hi> (which I call in my Book, the Doctrine of all Proteſtants) they ſay, what need then of <hi>Confeſſion</hi> and <hi>begging pardon?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>L.</hi>
+               </speaker>
+               <p>And yet you have ſaid, That <hi>all ſins were forgiven from Eternity:</hi> is this <hi>Proteſtaniſm?</hi> Let the Propoſition of all Sins pardoned together (tho it ſeems hard to ſay a Sin is actually pardoned before it is actually committed) let it be how it will, yet ſuch a wild conſequence can never follow.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. C.</speaker>
+               <p>Some <hi>good</hi> Chriſtians, and <hi>Exalters</hi> of Chriſt alone, are ſatisfied; to pray for <hi>manifeſtative pardon,</hi> ſo it be done ſeldom and ſparingly, tho ſome of the Godly be not ſo.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>L.</hi>
+               </speaker>
+               <p>
+                  <hi>David</hi> was aſſur'd of Pardon from God by <hi>Nathan,</hi> when he was humbled and confeſſed, <hi>have ſinn'd.</hi> The Lord <hi>hath pardon'd thy ſin,</hi> ſaith <hi>Nathan.</hi> Yet after all this, <hi>David</hi> perm'd
+<pb n="21" facs="tcp:36934:12"/>this Pſalm of Pſalms, the Penitential Pſalm, and 1. prays, <hi>blot out my iniquity.</hi> 2. ſorrows, <hi>my ſin is ever before me.</hi> 3. confeſſeth, <hi>agairſt thee, thee only, have I ſinn'd.</hi> Beſides, Chriſt taught them to whom God was a Father to pray daily, <hi>Forgive us our Treſpaſſes.</hi> What Treſpaſſes, all or ſome? if ſome, which? I ſay, all. <hi>Job</hi> was an upright man, and yet ſays, <hi>Thou writeſt bitter things a<g ref="char:EOLhyphen"/>gainſt me, and mak'ſt me poſſeſs the ſins of my Youth.</hi> Judgments came on the Land for the Sins of <hi>Manaſſah,</hi> which the Lord (as is ſaid) <hi>would not pardon;</hi> yet he was then in Heaven, I hope you miſtake me not; conſider the Text and my Deſign. Gods Com<g ref="char:EOLhyphen"/>mand is ſufficient, and he will this way make us to keep up the <hi>ſenſe of ſin,</hi> our <hi>deſert of damnation and wrath,</hi> his <hi>infinite good<g ref="char:EOLhyphen"/>neſs to pardon,</hi> &amp;c. But to paſs to another thing; you talkt ſo much of <hi>purity of Doctrine,</hi> how came it to paſs you minded no more <hi>purity of Diſcipline</hi> in that Church? You read Prayers of other mens making; you added an additional Humane Sacra<g ref="char:EOLhyphen"/>ment to one of Divine appointment, the Croſs in Baptiſm; is not the Croſs made a Teſſara, or Symbol, or Livery, as well as Baptiſm, by which you dedicated Children to a dying Saviour?</p>
+            </sp>
+            <sp>
+               <speaker>Dr. C.</speaker>
+               <p>You know, Mr. <hi>L.</hi> I am no diſtinguiſher, but yet I have heard ſome men diſtinguiſh between an <hi>immediate</hi> and <hi>pro<g ref="char:EOLhyphen"/>per,</hi> and an <hi>improper</hi> and <hi>declarative Dedication:</hi> I hate your <hi>Diſcipline</hi> as much as did the old Puritans my <hi>Doctrine.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>L.</hi>
+               </speaker>
+               <p>Would you not think it Sawcineſs, or worſe, for a Sub<g ref="char:EOLhyphen"/>ject to preſcribe what badges or marks of ſubjection or office ſuch and ſuch ſhould wear, who were thus to be order'd by the King?</p>
+            </sp>
+            <sp>
+               <speaker>Dr. C.</speaker>
+               <p>May not the Church appoint <hi>ſacred Rights,</hi> as well as the Primitive Chriſtians their <hi>Love-Feaſts?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>L.</hi>
+               </speaker>
+               <p>I might invite all my Communicants to Dinner after the Lords Supper, and all but a civil cuſtom, if in ſome Pariſhes.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. C.</speaker>
+               <p>But the Uſe of the Croſs is ancient.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>L.</hi>
+               </speaker>
+               <p>Not in Baptiſm: Why uſe you it not often as the Pa<g ref="char:EOLhyphen"/>piſt do, if ſo uſeful, ſpit on the Child, put a Taper in his hand, as they do, and give Significations to thoſe Signs.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. C.</speaker>
+               <p>What ſay you to Chriſt's waſhing his Diſciples Feet, and bidding them do the like?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>L.</hi>
+               </speaker>
+               <p>Chriſt then obſerved a common Cuſtom going then among the <hi>Jews,</hi> as Scripture and other Hiſtories aſſure us. But why call you not for the Parents to engage to inſtruct the Chil<g ref="char:EOLhyphen"/>dren, whom God commands to do it, and require ignorant pro<g ref="char:EOLhyphen"/>phane men to come, who promiſe all in vain?</p>
+            </sp>
+            <sp>
+               <speaker>Dr. C.</speaker>
+               <p>It is the Cuſtom of our Church, and I ſhall not que<g ref="char:EOLhyphen"/>ſtion her Authority; it you think your ſelf wiſer than ſhe, you may, for my part I do not, I have no ſuch thoughts of my ſelt.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>L.</hi>
+               </speaker>
+               <p>Pray, Sir, tell us what Converts you had by preaching your <hi>Free Grace;</hi> I expected great things of this from you, in your Book, or ſome Preface, but found nothing: Some ſay thou<g ref="char:EOLhyphen"/>ſands
+<pb n="22" facs="tcp:36934:13"/>were converted (tho not prickt to the Heart, for that had been a legal Converſion).</p>
+            </sp>
+            <sp>
+               <speaker>Dr. C.</speaker>
+               <p>My Son tells you of one converted by a Sermon of mine, and ſtops the Reader in the midſt of the Sermon, to take notice of it; <hi>I</hi> S. C. <hi>do declare a poor creature at</hi> Brinkſworth, <hi>an Innkeeper, by hearing this Sermon, was reformed from his drun<g ref="char:EOLhyphen"/>ken courſe in a great meaſure.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>A.</hi>
+               </speaker>
+               <p>I can be quiet no longer; that was but half a Con<g ref="char:EOLhyphen"/>vert: What mean the words <hi>in a great meaſure?</hi> that whereas it may be he was drunk once or twice every day, he was but ſo every week: But pray remember when this miracle was wrought, it was when you preach'd againſt <hi>Drunkenneſs,</hi> not when you preach'd up your <hi>Free Grace;</hi> ſo that the Queſtion is yet unan<g ref="char:EOLhyphen"/>ſwered, Anſwer me then to another thing; Prithee Dr. how many Broad-pieces did you get for your ſmooth Doctrine, that wanted but one little word to make it good.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. C.</speaker>
+               <p>What is that?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>A.</hi>
+               </speaker>
+               <p>Truth.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. C.</speaker>
+               <p>I got more than you know of, or ever ſhall for me: But who made you an Examiner? I entred my Caution againſt you when I began; ſeeing it is impoſſible to keep you quiet, I will anſwer no more Queſtions of yours nor theirs, but will be gone, you are able to make a man wild.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>A.</hi>
+               </speaker>
+               <p>You were never otherwiſe, and beſides, a <hi>Wildſhire</hi> man.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>L.</hi>
+               </speaker>
+               <p>I ſuppoſe, if Mr. C. and Mr. <hi>H.</hi> go with you, none will call after them.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. C.</speaker>
+               <p>We three then bid you Farwell.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>L.</hi>
+               </speaker>
+               <p>Brother <hi>Williams,</hi> and Brother <hi>Alſop,</hi> what have we done to imploy thoſe Abilities God hath given us againſt one-another, to the ſcandal of our common Cauſe, when ſuch Here<g ref="char:EOLhyphen"/>ticks multiply. God forgive us, and incline our Hearts to for<g ref="char:EOLhyphen"/>give one-another: what Time I have to ſpare for writing of Controverſal Divinity is at the ſervice of the <hi>Criſpians;</hi> and what Time you have, I pray take <hi>Clark</hi> and <hi>Humphreys</hi> and ſuch Semipopiſh Perſons, to an account, or elſe all will ſay (what many now do) <hi>They ſpeak plainer than you,</hi> but <hi>you mean the ſame with them,</hi> and that <hi>this lay in the bottom of</hi> Baxterianiſm. Some Friends, Mr. <hi>Williams,</hi> to you and me, (for ſuch there are no Bi<g ref="char:EOLhyphen"/>gots) ſay, your Young-men are not ſo much corrupted about luſtification as was fear'd, you have ſomewhat trig'd them who were Popiſh in that point.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>W.</hi>
+               </speaker>
+               <p>Brother <hi>Lob,</hi> it is now late, and we will conſider this thing the next meeting.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>A.</hi>
+               </speaker>
+               <p>A good Night, Brethren, to you both; and tho' I am glad ſuch Innovators as the three that are gone have been the occaſion of the healing of our Breaches, yet I am ſorry I can<g ref="char:EOLhyphen"/>not ſay of them, conſidering what they are <hi>Beati pacifici, bleſſed are the Peace-makers.</hi>
+               </p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
